@@ -11,9 +11,9 @@ title                    : "Yiming Li's Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "personal description"
-url                      : https://zhedongma.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brighturan.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhedongma/zhedongma.github.io"
+repository               : "brighturan/brihturan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100024571883628"
+  facebook         : #"profile.php?id=100024571883628"
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhedong-ma-5a9988164"
+  linkedin         : #"zhedong-ma-5a9988164"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
