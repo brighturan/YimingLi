@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my Resume here](https://zhedongma.github.io/files/Yiming Resume.pdf)
+[Download my Resume here](https://brighturan.github.io/brighturan/files/Yiming Resume.pdf)
 
 Education
 ======
@@ -24,6 +24,7 @@ Work Experience
 Research on the Common Mode Noise Measurement and Reduction for the AC/DC Flyback Adapters of Consumer Electronics with Touchscreens, supported by Google Inc. (09/2015 – 05/2017)
 *	Proposed techniques of the modeling, measurement and reduction of common mode (CM) noise for multi-winding switching transformers.
 *	Investigated and proposed a sensitivity test setup for the touchscreens of consumer electronics interfered by the CM voltages of power adapters.
+
 Research on Transformer and EMI Filter Design for High Power-Density Flyback Power Adapters, supported by Google Inc. (08/2017 – 12/2019)
 *	Proposed a guideline to optimize the winding structure of the switching transformers to minimize the copper loss and the CM EMI noise.
 *	Eliminated the near field couplings in high power-density power converters.  
