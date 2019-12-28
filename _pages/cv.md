@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://zhedongma.github.io/files/Yiming Resume.pdf)
+[Download my Resume here](https://zhedongma.github.io/files/Yiming Resume.pdf)
 
 Education
 ======
